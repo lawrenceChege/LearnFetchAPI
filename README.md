@@ -3,9 +3,9 @@ The Fetch API is a simple interface for fetching resources. fetch allows consump
 for more information on Fetch https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 
 ## what it does
-In this project, we will illustrate how to consume an API using javascript Fetch.
+In this project, we will illustrate how to consume an API using javascript Fetch. We will demostrate HTTP verbs i.e GET ,POST ,PUT ,PATCH ,DELETE
 
-
+API to be used: https://ireporti.herokuapp.com/api/v2/
 
 
 ## Usage
