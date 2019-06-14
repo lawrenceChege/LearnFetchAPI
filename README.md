@@ -29,21 +29,19 @@ In this project, we will illustrate how to consume an API using javascript Fetch
 
 
 ## Prerequisites
-
+* Restful APIs
 * CSS
 * Git
-* HTML
+* HTML5
 * Javascript(ES6)
 
 ## Installation
 
 ### Download option
 
-* Go to [iReporter](https://github.com/lawrenceChege/iReporter) on github
+* Go to [LearnFetchAPI](https://github.com/GraceKiarie/LearnFetchAPI) on github
 * Download the zip file and extract it
-* Right click on the folder and open with terminal on linux or bash
 
->> we will continue from there :-)
 
 ** Cloning option **
 
@@ -53,18 +51,11 @@ In this project, we will illustrate how to consume an API using javascript Fetch
 
 `git clone https://github.com/lawrenceChege/iReporter.git`
 
-* Then:
 
-`cd iReporter`
 ### Author
 
 *Kiarie Grace*
 
-### Acknowledgement
-
-
-
-### Support or Contact
 
 
 *"Real artists ship"*
